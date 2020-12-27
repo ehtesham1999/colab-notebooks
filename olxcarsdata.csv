@@ -1,0 +1,158 @@
+title,location,price,body_type,brand,model,variant,year,fuel,transmission,kms,owners
+"Honda City 1.5 V Automatic, 2010, Petrol","India, Maharashtra, Pune, Vishrant Wadi","3,49,999",SEDAN,Honda,City,2008-2011 1.5 V AT,2010.0,Petrol,Automatic,70000,1
+"Skoda Superb Elegance 1.8 TSI Automatic, 2010, Petrol","India, Maharashtra, Pune, Vishrant Wadi","4,29,999",LUXURY_SEDAN,Skoda,Superb,2008-2013 Elegance 1.8 TSI AT,2010.0,Petrol,Automatic,59000,2
+"Hyundai Fluidic Verna 1.6 CRDi SX Automatic, 2012, Petrol","India, Maharashtra, Pune, Vishrant Wadi","4,99,999",SEDAN,Hyundai,Fluidic Verna,1.6 CRDi SX Automatic,2012,Petrol,Manual,58000,1
+"Skoda Rapid 1.5 TDI CR Ambition Plus, 2014, Diesel","India, Maharashtra, Pune, Vishrant Wadi","4,99,999",SEDAN,Skoda,Rapid,2013-2016 1.5 TDI Ambition Plus,2014.0,Diesel,Manual,55000,1
+"Honda Civic 1.8V Automatic, 2012, Petrol","India, Maharashtra, Pune, Vishrant Wadi","3,49,999",SEDAN,Honda,Civic,1.8 V AT,2012.0,Petrol,Automatic,65000,2
+"Volkswagen Vento Highline Petrol Automatic, 2011, Petrol","India, Maharashtra, Pune, Vishrant Wadi","3,49,999",SEDAN,Volkswagen,Vento,2010-2013 Petrol Highline AT,2011,Petrol,Automatic,58000,2
+Honda Civic 2007 Petrol Well Maintained,"India, Maharashtra, Pune, Prabhat Road","3,20,000",SEDAN,Honda,Civic,1.8 S MT,2007,Petrol,Manual,92000,2
+Sell may alto,"India, Maharashtra, Pune, Shivaji Nagar","75,000",HATCHBACK,Maruti Suzuki,Alto 800,Others,2006,Petrol,Manual,690000,3
+"Audi Q5 3.0 TDI quattro Technology Pack, 2012, Diesel","India, Maharashtra, Pune, Swargate","16,25,000",LUXURY_SUV,Audi,Q5,2012-2017 3.0 TDI Quattro Technology,2012,Diesel,Automatic,62000,2
+"Honda City 1.5 S Manual, 2009, Petrol","India, Maharashtra, Pune, Vishrant Wadi","3,15,000",SEDAN,Honda,City,2008-2011 1.5 S MT,2009,Petrol,Manual,65000,1
+"Maruti Suzuki Swift VXi 1.2 ABS BS-IV, 2009, Petrol","India, Maharashtra, Pune, Vishrant Wadi","2,65,000",HATCHBACK,Maruti Suzuki,Swift,VXi 1.2 ABS BS-IV,2009,Petrol,Manual,87000,2
+"Mahindra Quanto C6, 2013, Diesel","India, Maharashtra, Pune, Vishrant Wadi","3,55,000",MUV,Mahindra,Quanto,C6,2013.0,Diesel,Manual,72000,1
+"Hyundai Eon Magna +, 2013, Petrol","India, Maharashtra, Pune, Vishrant Wadi","2,55,000",HATCHBACK,Hyundai,EON,Magna +,2013.0,Petrol,Manual,55000,1
+"Nissan Sunny XL Diesel, 2015, Diesel","India, Maharashtra, Pune, Vishrant Wadi","3,99,000",SEDAN,Nissan,Sunny,Diesel XL,2015.0,Diesel,Manual,64000,2
+"Mercedes-Benz CLA-Class 200 Petrol Sport, 2018, Petrol","India, Maharashtra, Pune, Central Street Camp","27,50,000",LUXURY_SEDAN,Mercedes-Benz,CLA,200 CGI Sport,2018.0,Petrol,Automatic,19000,1
+"BMW 7 Series 730Ld Sedan, 2014, Diesel","India, Maharashtra, Pune, Central Street Camp","28,50,000",LUXURY_SEDAN,BMW,7 Series,730Ld Sedan,2014.0,Diesel,Automatic,57000,2
+"Bentley Continental GT Speed, 2008, Petrol","India, Maharashtra, Pune, Shivaji Nagar","65,00,000",SEDAN,Bentley,Continental GT,Continental GT Speed,2008,Petrol,Automatic,7208,1
+"Ford Free Style Titatinium TDCi, 2012, Diesel","India, Maharashtra, Pune, Vishrant Wadi","3,35,000",HATCHBACK,Ford,Freestyle,Titanium Diesel,2012,Diesel,Manual,76000,1
+"Renault Duster 110 PS RxZ Diesel, 2014, Diesel","India, Maharashtra, Pune, Vishrant Wadi","5,55,000",SUV,Renault,Duster,2012-2015 110PS Diesel RxZ,2014,Diesel,Manual,52000,1
+"Mitsubishi Pajero SFX 2.8, 2009, Diesel","India, Maharashtra, Pune, Vishrant Wadi","4,99,000",SUV,Mitsubishi,Pajero,2002-2012 2.8 SFX,2009.0,Diesel,Manual,117000,2
+"Tata Zest XMS Diesel, 2015, Diesel","India, Maharashtra, Pune, Vishrant Wadi","3,85,000",HATCHBACK,Tata,Zest ,Quadrajet 1.3 XMS,2015.0,Diesel,Manual,56000,1
+"Ford Fiesta SXi 1.6, 2011, CNG & Hybrids","India, Maharashtra, Pune, Vishrant Wadi","2,45,000",SEDAN,Ford,Fiesta,SXi 1.6,2011,CNG & Hybrids,Manual,75000,2
+"Tata Manza GEX, 2010, Petrol","India, Maharashtra, Pune, Vishrant Wadi","1,44,000",SEDAN,Tata,Manza,GEX,2010.0,Petrol,Manual,82000,2
+"Ford Ecosport EcoSport Titanium Plus 1.5 TDCi, 2014, Diesel","India, Maharashtra, Pune, Vishrant Wadi","5,55,000",SUV,Ford,Ecosport,1.5 Diesel Titanium Plus,2014.0,Diesel,Manual,74000,2
+"Renault Duster 85 PS RXZ, 2016, Diesel","India, Maharashtra, Pune, Vishrant Wadi","6,75,000",SUV,Renault,Duster,85PS Diesel RxZ,2016.0,Diesel,Manual,49000,1
+"Honda Accord 3.0 V6 Automatic, 2006, Petrol","India, Maharashtra, Pune, Vishrant Wadi","1,44,000",SEDAN,Honda,Accord,3.0 V6 Automatic,2006.0,Petrol,Automatic,99000,2
+Hyundai i10 2011 Petrol Well Maintained,"India, Maharashtra, Pune, Walvekar Nagar","4,00,000",HATCHBACK,Hyundai,i10,2007-2010 Sportz 1.2,2011,Petrol,Manual,60000,2
+Mercedes-Benz CL-Class 2008 Diesel Well Maintained,"India, Maharashtra, Pune, Ekbote Colony","8,25,000",LUXURY_SEDAN,Mercedes-Benz,CL-Class,Others,2008,Diesel,Automatic,75000,2
+Volkswagen Polo 2012 Diesel 81000 Km Driven,"India, Maharashtra, Pune, Gultekadi","2,49,000",HATCHBACK,Volkswagen,Polo,1.2 MPI Comfortline,2012,Diesel,Manual,81000,3
+2016 MERCEDES-BENZ E250D EDITION E PANAROMIC SUNROOF MH12,"India, Maharashtra, Pune, Apte Road","25,50,000",LUXURY_SEDAN,Mercedes-Benz,E-Class,E250 Edition E,2016,Diesel,Automatic,46700,2
+"Volkswagen Polo Highline plus, 2019, Diesel","India, Maharashtra, Pune, Rasta Peth","8,10,000",HATCHBACK,Volkswagen,Polo,1.2 MPI Highline Plus,2019,Diesel,Manual,23368,1
+"BMW 3 Series 320d Highline Sedan, 2011, Diesel","India, Maharashtra, Pune, Cantonment Residential Area","7,00,000",LUXURY_SEDAN,BMW,3 Series,2005-2011 320d Highline,2011,Diesel,Automatic,85001,3
+"Skoda Octavia L&K, 2019, Petrol","India, Maharashtra, Pune, Rasta Peth","20,75,000",SEDAN,Skoda,Octavia,2000-2010 L and K 1.9 TDI MT,2019,Petrol,Automatic,5339,1
+"Maruti Suzuki Ertiga Vxi CNG, 2015, CNG & Hybrids","India, Maharashtra, Pune, Pune Vidyapith","5,90,000",MUV,Maruti Suzuki,Ertiga,VXI CNG,2015,CNG & Hybrids,Manual,100000,1
+"Chevrolet Enjoy 1.4 LS 8 STR, 2014, CNG & Hybrids","India, Maharashtra, Pune, Vishrant Wadi","3,65,000",HATCHBACK,Chevrolet,Enjoy,1.4 LS 8,2014,CNG & Hybrids,Manual,65000,1
+"Hyundai Verna Fluidic 1.6 VTVT EX, 2011, Petrol","India, Maharashtra, Pune, Vishrant Wadi","3,99,000",SEDAN,Hyundai,Verna,2011-2014 1.6 EX VTVT,2011.0,Petrol,Manual,56000,1
+"Hyundai Verna Fluidic 1.6 VTVT SX, 2012, Petrol","India, Maharashtra, Pune, Vishrant Wadi","3,99,000",SEDAN,Hyundai,Verna,Fluidic 1.6 VTVT SX,2012.0,Petrol,Manual,22000,1
+"Mercedes-Benz S-Class 350, 2016, Diesel","India, Maharashtra, Pune, Shivaji Nagar","50,00,000",LUXURY_SEDAN,Mercedes-Benz,S-Class,S 350 d,2016,Diesel,Automatic,32000,2
+"BMW X1 sDrive20d, 2017, Diesel","India, Maharashtra, Pune, Shivaji Nagar","20,50,000",LUXURY_SUV,BMW,X1,2010-2012 sDrive20d,2017,Diesel,Automatic,56000,1
+"Volkswagen Polo Comfortline Diesel, 2011, Diesel","India, Maharashtra, Pune, Vishrant Wadi","2,75,000",HATCHBACK,Volkswagen,Polo,2009-2013 Diesel Comfortline 1.2L,2011,Diesel,Manual,129000,2
+"Maruti Suzuki Ertiga VDi, 2013, Diesel","India, Maharashtra, Pune, Rasta Peth","6,25,000",MUV,Maruti Suzuki,Ertiga,2012-2015 VDI,2013,Diesel,Manual,42406,1
+Maruti suzuki swift vxi 2007 model second owner excellent condition.,"India, Maharashtra, Pune, Central Street Camp","1,69,999",HATCHBACK,Maruti Suzuki,Swift,VXI,2007,Petrol,Manual,89999,2
+"Maruti Suzuki Swift VDi, 2007, Diesel","India, Maharashtra, Pune, Swargate","2,75,000",HATCHBACK,Maruti Suzuki,Swift,2011-2014 VDI,2007,Diesel,Manual,145000,3
+"Volkswagen Polo Comfortline Diesel, 2013, Diesel","India, Maharashtra, Pune, Vishrant Wadi","3,35,000",HATCHBACK,Volkswagen,Polo,2009-2013 Diesel Comfortline 1.2L,2013,Diesel,Manual,95000,1
+Scratchless Honda Accord 2.4 I-Vtec Automatic,"India, Maharashtra, Pune, Koregaon park","7,00,000",SEDAN,Honda,Accord,Accord 2.4 Automatic,2011,CNG & Hybrids,Automatic,76000,2
+"Ford Mustang V8, 2017, Petrol","India, Maharashtra, Pune, Shivaji Nagar","69,99,000",LUXURY_SEDAN,Ford,Mustang,V8,2017,Petrol,Automatic,2600,1
+"Honda Brio S Manual, 2014, Petrol","India, Maharashtra, Pune, Shivaji Nagar","4,00,000",HATCHBACK,Honda,Brio,2011-2013 S MT,2014,Petrol,Manual,17198,1
+Hyundai Xcent,"India, Maharashtra, Pune, Guruwar Peth","2,30,000",SEDAN,Hyundai,Xcent,Others,2017,Diesel,Manual,100000,1
+"Honda City V, 2018, Petrol","India, Maharashtra, Pune, Sadashiv Peth","9,25,000",SEDAN,Honda,City,V,2018,Petrol,Manual,17000,1
+"Hyundai I10 Era, 2008, Petrol","India, Maharashtra, Pune, Swargate","1,65,000",HATCHBACK,Hyundai,i10,Era,2008,Petrol,Manual,58000,2
+"Hyundai I20 Asta 1.4 CRDI, 2011, Diesel","India, Maharashtra, Pune, Khadki","3,50,000",HATCHBACK,Hyundai,i20,2010-2012 1.4 CRDi Asta,2011,Diesel,Manual,88000,1
+Hyundai Xcent 2018 Diesel Good Condition,"India, Maharashtra, Pune, Sarita Vihar","3,80,000",SEDAN,Hyundai,Xcent,1.2 CRDi E Plus,2018,Diesel,Manual,105000,1
+"Maruti Suzuki Vitara Brezza ZDi - Plus Dual Tone Diesel, 2017, Diese..","India, Maharashtra, Pune, Walvekar Nagar","9,25,000",SUV,Maruti Suzuki,Vitara Brezza,ZDi Plus Dual Tone,2017,Diesel,Manual,49000,1
+"Maruti Suzuki Omni Cargo BS-IV, 2015, Petrol","India, Maharashtra, Pune, Swargate","2,21,000",MINIVAN,Maruti Suzuki,Omni,MPI CARGO BSIV,2015,Petrol,Manual,43000,1
+"Toyota Innova Crysta 2.8 GX Automatic 7 STR, 2019, Diesel","India, Maharashtra, Pune, Senapati Bapat Road","18,50,000",SUV,Toyota,Innova,Crysta 2.8 GX Automatic 7 STR,2019,Diesel,Automatic,29144,1
+"Toyota Fortuner 3.0 4x4 Automatic, 2017, Diesel","India, Maharashtra, Pune, Senapati Bapat Road","28,00,000",SUV,Toyota,Fortuner,3.0 4x4 Automatic,2017,Diesel,Automatic,67245,1
+"Maruti Suzuki Zen Estilo LXI BS IV, 2011, Petrol","India, Maharashtra, Pune, Vishrant Wadi","1,85,000",HATCHBACK,Maruti Suzuki,Zen Estilo,LXI BS IV,2011.0,Petrol,Manual,47000,1
+Hyundai Santro Xing 2005 Petrol 75000 Km Driven VERY GOOD CONDITION,"India, Maharashtra, Pune, Swargate","1,15,000",HATCHBACK,Hyundai,Santro Xing,Others,2005,Petrol,Manual,70000,2
+"Skoda Laura L&K 1.9 PD Manual, 2009, Diesel","India, Maharashtra, Pune, Vishrant Wadi","3,00,000",SEDAN,Skoda,Laura,L and K MT,2009,Diesel,Manual,96200,1
+"Skoda Superb Elegance 1.8 TSI Automatic, 2010, Petrol","India, Maharashtra, Pune, Vishrant Wadi","4,30,000",LUXURY_SEDAN,Skoda,Superb,2008-2013 Elegance 1.8 TSI AT,2010,Petrol,Automatic,58000,2
+"Volkswagen Polo Comfortline Diesel, 2011, Diesel","India, Maharashtra, Pune, Vishrant Wadi","3,30,000",HATCHBACK,Volkswagen,Polo,2009-2013 Diesel Comfortline 1.2L,2011,Diesel,Manual,70200,1
+"Audi A4 2.0 TDI (177bhp), Technology Pack, 2009, Diesel","India, Maharashtra, Pune, Vishrant Wadi","8,00,000",SEDAN,Audi,A4,2014-2016 2.0 TDI 177 Bhp Technology Edition,2009,Diesel,Automatic,105000,2
+"Mercedes-Benz C-Class 200 K Elegance Automatic, 2007, Petrol","India, Maharashtra, Pune, Vishrant Wadi","5,00,000",LUXURY_SEDAN,Mercedes-Benz,New C-Class,C 200 Kompressor Elegance AT,2007,Petrol,Automatic,85200,1
+"Hyundai Eon D-Lite, 2013, Petrol","India, Maharashtra, Pune, Rasta Peth","2,50,000",HATCHBACK,Hyundai,EON,D Lite,2013,Petrol,Manual,70670,1
+Toyota Innova Diesel 2012,"India, Maharashtra, Pune, Kalyani Nagar","9,25,000",SUV,Toyota,Innova,2.5 VX (Diesel) 7 Seater BS IV,2012,Diesel,Manual,86000,1
+"Mercedes-Benz CLA-Class 200 CDI Sport, 2016, Diesel","India, Maharashtra, Pune, Central Street Camp","19,00,000",LUXURY_SEDAN,Mercedes-Benz,CLA,200 CDI Sport,2016.0,Diesel,Automatic,35000,1
+Very good condition car all tyre new battery new,"India, Maharashtra, Pune, Dattawadi","85,000",HATCHBACK,Maruti Suzuki,Wagon R,1999-2006 VXI BSII,2000,Petrol,Manual,91387,2
+"Volkswagen Vento TSI, 2014, Petrol","India, Maharashtra, Pune, Vishrant Wadi","5,50,000",SEDAN,Volkswagen,Vento,2013-2015 TSI,2014,Petrol,Automatic,44200,1
+"Honda City Zx ZX GXi, 2007, CNG & Hybrids","India, Maharashtra, Pune, Vishrant Wadi","1,89,999",SEDAN,Honda,City ZX,GXi,2007,CNG & Hybrids,Manual,77000,1
+"Volkswagen Passat Highline DSG, 2012, Diesel","India, Maharashtra, Pune, Vishrant Wadi","7,99,999",SEDAN,Volkswagen,Passat,2007-2010 Highline DSG,2012,Diesel,Automatic,101000,1
+"Toyota Innova 2.5 V 7 STR, 2017, Diesel","India, Maharashtra, Pune, Senapati Bapat Road","18,50,000",SUV,Toyota,Innova,2.5 V 7 STR,2017,Diesel,Manual,76864,1
+BMW 5 Series 2018 Diesel Well Maintained,"India, Maharashtra, Pune, Law College","47,50,000",LUXURY_SEDAN,BMW,5 Series,520d Luxury Line,2018,Diesel,Automatic,7000,1
+"Maruti Suzuki Wagon R LXI, 2005, Petrol","India, Maharashtra, Pune, Walvekar Nagar","1,11,000",HATCHBACK,Maruti Suzuki,Wagon R,1999-2006 LXI,2005,Petrol,Manual,99000,2
+"Maruti Suzuki Baleno Zeta Automatic, 2018, Petrol","India, Maharashtra, Pune, Swargate","7,40,000",HATCHBACK,Maruti Suzuki,Baleno,Zeta Automatic,2018,Petrol,Automatic,19000,1
+"Hyundai Xcent S 1.2, 2018, CNG & Hybrids","India, Maharashtra, Pune, Swargate","4,80,000",SEDAN,Hyundai,Xcent,S 1.2,2018,CNG & Hybrids,Manual,78000,1
+"Mahindra Scorpio SLE BS-IV, 2012, Diesel","India, Maharashtra, Pune, Walvekar Nagar","5,50,000",SUV,Mahindra,Scorpio,2009-2014 SLE BSIV,2012,Diesel,Manual,73500,1
+Hyundai Eon magna+,"India, Maharashtra, Pune, Narayan Peth","2,62,000",HATCHBACK,Hyundai,EON,Magna +,2014,Petrol,Manual,73000,2
+"Maruti Suzuki Sx4 SX4 VXI CNG BS-IV, 2013, CNG & Hybrids","India, Maharashtra, Pune, Vishrant Wadi","2,99,999",SEDAN,Maruti Suzuki,SX4,VXI CNG BS-IV,2013.0,CNG & Hybrids,Manual,63000,1
+"Volkswagen Polo Highline Petrol, 2010, Petrol","India, Maharashtra, Pune, Vishrant Wadi","2,89,999",HATCHBACK,Volkswagen,Polo,2009-2013 Petrol Highline 1.6L,2010.0,Petrol,Manual,48000,2
+"Hyundai I20 Asta 1.4 (Automatic), 2009, Petrol","India, Maharashtra, Pune, Vishrant Wadi","2,99,999",HATCHBACK,Hyundai,i20,2009-2011 1.4 Asta (AT),2009.0,Petrol,Automatic,50000,1
+"Skoda Superb Elegance 2.0 TDI CR Automatic, 2010, Diesel","India, Maharashtra, Pune, Vishrant Wadi","4,99,999",LUXURY_SEDAN,Skoda,Superb,2008-2013 Elegance 2.0 TDI CR AT,2010.0,Diesel,Automatic,65000,2
+"Volkswagen Polo Highline Diesel, 2016, Diesel","India, Maharashtra, Pune, Pune Vidyapith","5,80,000",HATCHBACK,Volkswagen,Polo,2009-2013 Diesel Highline 1.2L,2016,Diesel,Manual,38000,1
+"BMW 5 Series 523i Sedan, 2010, Petrol","India, Maharashtra, Pune, Central Street Camp","10,80,000",LUXURY_SEDAN,BMW,5 Series,523i,2010.0,Petrol,Automatic,69000,1
+"Jeep COMPASS Compass 2.0 Limited, 2018, Diesel","India, Maharashtra, Pune, Shivaji Nagar","15,50,000",SUV,Jeep,Compass,2.0 Limited,2018,Diesel,Manual,48000,1
+Honda Jazz V CVT Automatic,"India, Maharashtra, Pune, Narayan Peth","6,35,000",HATCHBACK,Honda,Jazz,V Automatic,2015,Petrol,Automatic,41650,1
+"Maruti Suzuki Alto K10 VXi (O), 2014, Petrol","India, Maharashtra, Pune, Senapati Bapat Road","2,88,000",HATCHBACK,Maruti Suzuki,Alto K10,K10 VXi (O),2014,Petrol,Manual,80133,1
+Datsun RediGO 1.0 T,"India, Maharashtra, Pune, Vishrant Wadi","2,59,000",HATCHBACK,Datsun,RediGO,1.0 T Option,2018,Petrol,Automatic,32100,1
+"Mahindra Scorpio SLX 2.6 Turbo 7 Str, 2007, Diesel","India, Maharashtra, Pune, Swargate","3,50,000",SUV,Mahindra,Scorpio,2002-2013 2.6 SLX Turbo 7 Seater,2007,Diesel,Manual,135000,1
+"Skoda Superb 3.6 FSI 4x4, 2009, Petrol","India, Maharashtra, Pune, Vishrant Wadi","4,99,999",LUXURY_SEDAN,Skoda,Superb,2008-2013 3.6 FXI 4X4,2009.0,Petrol,Automatic,59000,1
+"Skoda Superb Elegance 1.8 TSI Automatic, 2012, Petrol","India, Maharashtra, Pune, Vishrant Wadi","5,99,999",LUXURY_SEDAN,Skoda,Superb,2008-2013 Elegance 1.8 TSI AT,2012.0,Petrol,Automatic,61000,1
+"Hyundai Fluidic Verna 1.6 CRDi SX Automatic, 2012, Diesel","India, Maharashtra, Pune, Vishrant Wadi","4,99,999",SEDAN,Hyundai,Fluidic Verna,1.6 CRDi SX Automatic,2012.0,Diesel,Automatic,56000,1
+"Hyundai I20 Asta 1.2 (O), With Sunroof, 2009, Diesel","India, Maharashtra, Pune, MG Road","3,40,000",HATCHBACK,Hyundai,i20,2010-2012 1.2 Asta Option with Sunroof,2009,Diesel,Manual,92000,1
+"Hyundai Fluidic Verna 1.4 CRDi, 2012, Diesel","India, Maharashtra, Pune, MG Road","4,35,000",SEDAN,Hyundai,Fluidic Verna,1.4 CRDi,2012,Diesel,Manual,63000,1
+"Toyota Corolla H2 1.8E, 2006, Petrol","India, Maharashtra, Pune, Shivaji Nagar","1,90,000",LUXURY_SEDAN,Toyota,Corolla,H2 1.8E,2006.0,Petrol,Manual,132344,3
+"Mercedes-Benz Glc 220D Celebration Edition, 2017, Diesel","India, Maharashtra, Pune, Central Street Camp","38,50,000",LUXURY_SUV,Mercedes-Benz,GLC Class,220d Celebration Edition,2017.0,Diesel,Automatic,32000,1
+"BMW 5 Series 530d Sedan, 2010, Diesel","India, Maharashtra, Pune, Bhosle Nagar","15,00,000",LUXURY_SEDAN,BMW,5 Series,530d,2010,Diesel,Automatic,108000,1
+"Hyundai Fluidic Verna 1.6 VTVT S(O), 2015, Petrol","India, Maharashtra, Pune, MG Road","6,50,000",SEDAN,Hyundai,Fluidic Verna,1.6 VTVT S(O),2015,Petrol,Manual,59000,1
+"Hyundai I20 Magna (O), 1.2, 2016, Petrol","India, Maharashtra, Pune, MG Road","5,50,000",HATCHBACK,Hyundai,i20,2012-2014 Magna Optional 1.2,2016,Petrol,Manual,75000,1
+"Volkswagen Polo Comfortline Petrol, 2011, Petrol","India, Maharashtra, Pune, Vishrant Wadi","2,65,000",HATCHBACK,Volkswagen,Polo,2009-2013 Petrol Comfortline 1.2L,2011,Petrol,Manual,72000,1
+"Honda Accord 2.4 Elegance Manual, 2007, Petrol","India, Maharashtra, Pune, Vishrant Wadi","1,85,000",SEDAN,Honda,Accord,2.4 Elegance Manual,2007.0,Petrol,Manual,82000,2
+Maruti Suzuki A-Star 2010 Petrol 30000 Km Driven,"India, Maharashtra, Pune, Shivaji Nagar","2,20,000",HATCHBACK,Maruti Suzuki,A-Star,Lxi,2010,Petrol,Manual,30000,1
+"Maruti Suzuki Stingray VXi, 2015, CNG & Hybrids","India, Maharashtra, Pune, Vishrant Wadi","4,25,000",HATCHBACK,Maruti Suzuki,Stingray,Stingray VXi,2015,CNG & Hybrids,Manual,55000,1
+"Toyota Etios GD SP*, 2013, Diesel","India, Maharashtra, Pune, Vishrant Wadi","4,55,000",SEDAN,Toyota,Etios,Etios GD SP*,2013,Diesel,Manual,95000,1
+"Honda City V Diesel, 2015, Diesel","India, Maharashtra, Pune, Vishrant Wadi","6,65,000",SEDAN,Honda,City,i-DTEC V,2015,Diesel,Manual,79000,1
+"Volkswagen Vento Highline Petrol Automatic, 2015, Petrol","India, Maharashtra, Pune, Vishrant Wadi","6,55,000",SEDAN,Volkswagen,Vento,2010-2013 Petrol Highline AT,2015,Petrol,Manual,45000,1
+Maruti Suzuki Wagon R 2013,"India, Maharashtra, Pune, TMV Nagar","2,80,000",HATCHBACK,Maruti Suzuki,Wagon R,LXI,2013,Petrol,Manual,42000,1
+"Jaguar XF 2.2 Diesel, 2014, Diesel","India, Maharashtra, Pune, Swargate","22,50,000",LUXURY_SEDAN,Jaguar,XF,2.2 Diesel,2014,Diesel,Automatic,40000,1
+"Mercedes-Benz A-Class A 200 CDI, 2016, Diesel","India, Maharashtra, Pune, Swargate","16,00,000",LUXURY_SEDAN,Mercedes-Benz,A Class,A200 CDI,2016,Diesel,Automatic,26000,1
+"BMW 3 Series 328i Sport Line, 2013, Petrol","India, Maharashtra, Pune, Swargate","18,00,000",LUXURY_SEDAN,BMW,3 Series,2011-2015 328i Sport Line,2013,Petrol,Automatic,50000,1
+"Maruti Suzuki Alto LXi BS-III, 2007, Petrol","India, Maharashtra, Pune, Swargate","1,25,000",HATCHBACK,Maruti Suzuki,Alto,2005-2010 LXi BSIII,2007,Petrol,Manual,76000,2
+"Maruti Suzuki Ritz Vxi BS-IV, 2013, Petrol","India, Maharashtra, Pune, Shivaji Nagar","4,00,000",HATCHBACK,Maruti Suzuki,Ritz,2009-2011 VXI,2013,Petrol,Manual,68000,1
+"Skoda Superb Elegance 2.0 TDI CR Automatic, 2011, Diesel","India, Maharashtra, Pune, Shivaji Nagar","7,50,000",LUXURY_SEDAN,Skoda,Superb,2008-2013 Elegance 2.0 TDI CR AT,2011,Diesel,Automatic,90600,1
+"Tata Nano LX, 2014, Petrol","India, Maharashtra, Pune, Shivaji Nagar","1,25,000",HATCHBACK,Tata,Nano,2009-2011 Lx,2014,Petrol,Manual,39000,1
+"Skoda Superb Elegance 2.0 TDI CR Automatic, 2015, Diesel","India, Maharashtra, Pune, Shivaji Nagar","13,50,000",LUXURY_SEDAN,Skoda,Superb,2008-2013 Elegance 2.0 TDI CR AT,2015,Diesel,Automatic,73000,1
+"Skoda Laura Ambiente 1.8 TSI, 2011, Petrol","India, Maharashtra, Pune, Shivaji Nagar","4,75,000",SEDAN,Skoda,Laura,Laura 1.8 TSI Ambiente,2011,Petrol,Manual,27400,1
+"Skoda Superb Ambition 1.8 TSI Manual, 2015, Petrol","India, Maharashtra, Pune, Shivaji Nagar","9,75,000",LUXURY_SEDAN,Skoda,Superb,2008-2013 1.8 TSI MT,2015,Petrol,Manual,44237,1
+"Volkswagen Polo Highline Diesel, 2016, Diesel","India, Maharashtra, Pune, Shivaji Nagar","6,50,000",HATCHBACK,Volkswagen,Polo,2009-2013 Diesel Highline 1.2L,2016,Diesel,Manual,74900,1
+"Mercedes-Benz GLE COUPE 43 4MATIC, 2017, Petrol","India, Maharashtra, Pune, Shivaji Nagar","72,00,000",OTHERS,Mercedes-Benz,GLE COUPE,43 AMG Coupe,2017,Petrol,Automatic,13652,1
+"Hyundai Fluidic Verna 1.6 VTVT S (O) Automatic, 2012, Diesel","India, Maharashtra, Pune, Vishrant Wadi","5,00,000",SEDAN,Hyundai,Fluidic Verna,1.6 VTVT S (O) Automatic,2012,Diesel,Automatic,58000,1
+"Maruti Suzuki Ritz Ldi BS-IV, 2016, Diesel","India, Maharashtra, Pune, Nana Peth","4,00,000",HATCHBACK,Maruti Suzuki,Ritz,Ldi BS-IV,2016,Diesel,Manual,78000,1
+"Toyota Land Cruiser Prado VX L, 2013, Diesel","India, Maharashtra, Pune, Shivaji Nagar","38,00,000",SUV,Toyota,Land Cruiser Prado,VX L,2013,Diesel,Automatic,162000,1
+"Hyundai I10 Sportz 1.2, 2010, Petrol","India, Maharashtra, Pune, Vishrant Wadi","2,40,000",HATCHBACK,Hyundai,i10,2007-2010 Sportz 1.2,2010,Petrol,Manual,84000,1
+"Maruti Suzuki Ritz Vdi BS-IV, 2010, Diesel","India, Maharashtra, Pune, Vishrant Wadi","2,75,000",HATCHBACK,Maruti Suzuki,Ritz,Vdi BS-IV,2010,Diesel,Manual,133000,1
+"Hyundai Elite I20 Asta 1.4 CRDI (O), 2019, Diesel","India, Maharashtra, Pune, Senapati Bapat Road","8,50,000",HATCHBACK,Hyundai,Elite i20,1.4 CRDI Asta (O),2019,Diesel,Manual,35000,1
+"Toyota Camry Hybrid, 2016, CNG & Hybrids","India, Maharashtra, Pune, Senapati Bapat Road","18,00,000",HYBRID_SEDAN,Toyota,Camry,Hybrid 2.5,2016,CNG & Hybrids,Automatic,46000,2
+"BMW X5 xDrive30d Pure Experience (5 Seater), 2015, Diesel","India, Maharashtra, Pune, Senapati Bapat Road","33,00,000",LUXURY_SUV,BMW,X5,xDrive 30d Design Pure Experience 5 Seater,2015,Diesel,Automatic,82000,1
+"Land Rover Range Sport 3.0 TDV6 HSE Diesel, 2012, Diesel","India, Maharashtra, Pune, Senapati Bapat Road","33,00,000",LUXURY_SUV,Land Rover,Range Rover Sport,Sport 3.0 TDV6 HSE Diesel,2012,Diesel,Automatic,62000,2
+"Land Rover Range Evoque Dynamic SD4, 2016, Diesel","India, Maharashtra, Pune, Senapati Bapat Road","34,00,000",LUXURY_SUV,Land Rover,Range Rover Evoque,Evoque Dynamic SD4,2016,Diesel,Automatic,26000,2
+"Toyota Innova 2.5 E 8 STR, 2007, Diesel","India, Maharashtra, Pune, Vishrant Wadi","3,95,000",SUV,Toyota,Innova,2009-2011 2.5 E 8 STR,2007,Diesel,Manual,195000,2
+"Hyundai Verna Fluidic 1.4 VTVT CX, 2011, Petrol","India, Maharashtra, Pune, Vishrant Wadi","3,99,000",SEDAN,Hyundai,Verna,2011-2014 1.4 CX,2011.0,Petrol,Manual,19000,1
+"Honda City 1.5 S Manual, 2010, Petrol","India, Maharashtra, Pune, Vishrant Wadi","3,35,000",SEDAN,Honda,City,2008-2011 1.5 S MT,2010,Petrol,Manual,69000,1
+Hyundai Santro Xing 2004,"India, Maharashtra, Pune, Shanti Nagar","85,000",HATCHBACK,Hyundai,Santro Xing,XE,2004,Petrol,Manual,90000,2
+"Tata Indigo LS DiCOR BS-III, 2006, Petrol","India, Maharashtra, Pune, Vishrant Wadi","1,25,000",SEDAN,Tata,Indigo,LS Dicor,2006,Petrol,Manual,65000,2
+"Mahindra Bolero ZLX BS IV, 2015, Diesel","India, Maharashtra, Pune, Pune Vidyapith","6,50,000",SUV,Mahindra,Bolero,ZLX,2015,Diesel,Manual,60000,1
+"Mercedes-Benz R-Class R350 4MATIC, 2013, Petrol","India, Maharashtra, Pune, Shivaji Nagar","15,00,000",LUXURY_SUV,Mercedes-Benz,R-Class,R350 4MATIC,2013,Petrol,Automatic,43000,2
+"Fiat Punto Emotion Pack 1.4, 2013, Diesel","India, Maharashtra, Pune, Vishrant Wadi","2,99,000",HATCHBACK,Fiat,Punto,Punto Emotion Pack 1.4,2013,Diesel,Manual,71000,1
+"Honda City 1.5 V Automatic, 2010, Petrol","India, Maharashtra, Pune, Vishrant Wadi","3,65,000",SEDAN,Honda,City,2008-2011 1.5 V AT,2010,Petrol,Automatic,67000,1
+"Ford Fiesta SXi 1.4 TDCi, 2009, Diesel","India, Maharashtra, Pune, Swargate","2,50,000",SEDAN,Ford,Fiesta,2008-2011 1.4 SXi TDCi,2009,Diesel,Manual,53000,1
+"Skoda Rapid Elegance 1.6 TDI CR Manual, 2012, Diesel","India, Maharashtra, Pune, Rasta Peth","4,25,000",SEDAN,Skoda,Rapid,Elegance 1.6 TDI CR Manual,2012,Diesel,Manual,55089,1
+Diesel 15 average tata safari single handed use,"India, Maharashtra, Pune, Senapati Bapat Road","2,50,000",SUV,Tata,Safari,DICOR 2.2 EX 4x2 BS IV,2008,Diesel,Manual,70000,1
+"Maruti Suzuki Swift VDi BS-IV, 2014, Diesel","India, Maharashtra, Pune, Rasta Peth","5,10,000",HATCHBACK,Maruti Suzuki,Swift,VDI BS IV,2014,Diesel,Manual,82259,1
+Well maintained,"India, Maharashtra, Pune, Koregaon park","18,50,000",LUXURY_SEDAN,BMW,5 Series,530d,2010,Diesel,Automatic,149000,1
+Maruti Suzuki Swift 2017 Diesel single owner,"India, Maharashtra, Pune, Sadashiv Peth","6,00,000",HATCHBACK,Maruti Suzuki,Swift,VDI Optional,2017,Diesel,Manual,70876,1
+"Maruti Suzuki Swift VDi BS-IV, 2012, Diesel","India, Maharashtra, Pune, Walvekar Nagar","4,65,000",HATCHBACK,Maruti Suzuki,Swift,VDI BS IV,2012,Diesel,Manual,81000,1
+"Audi A6 2.7 TDI, 2009, Diesel","India, Maharashtra, Pune, Shivaji Nagar","7,00,000",LUXURY_SEDAN,Audi,A6,2009-2011 2.7 TDI,2009,Diesel,Automatic,90000,1
+Skoda Rapid 2012 Petrol Well Maintained,"India, Maharashtra, Pune, Sarita Vihar","2,75,000",SEDAN,Skoda,Rapid,1.6 MPI AT Ambition,2012,Petrol,Manual,112100,1
+Mercedes-Benz GLA Class 2018 Diesel Well Maintained,"India, Maharashtra, Pune, Pune Cantonment","18,60,000",LUXURY_SUV,Mercedes-Benz,GLA Class,2014-2017 200 D Sport Edition,2018,Diesel,Automatic,55000,1
+"Honda City 1.5 V Manual, 2010, Petrol","India, Maharashtra, Pune, Vishrant Wadi","3,55,000",SEDAN,Honda,City,2008-2011 1.5 V MT,2010,Petrol,Manual,67000,1
+"Maruti Suzuki Celerio ZXi, 2014, Petrol","India, Maharashtra, Pune, Vishrant Wadi","3,85,000",HATCHBACK,Maruti Suzuki,Celerio,ZXI MT,2014,Petrol,Manual,45000,1
+"Hyundai Verna Fluidic 1.6 VTVT SX, 2014, Petrol","India, Maharashtra, Pune, Vishrant Wadi","5,35,000",SEDAN,Hyundai,Verna,Fluidic 1.6 VTVT SX,2014,Petrol,Manual,65000,1
+Innova 2005,"India, Maharashtra, Pune, Parvati","3,50,000",SUV,Toyota,Innova,2.5 EV (Diesel) PS 7 Seater BS IV,2005,Diesel,Manual,201000,2
+Mahindra Xylo 2014 Diesel Good Condition,"India, Maharashtra, Pune, Sarita Vihar","6,10,000",SUV,Mahindra,Xylo,D4,2014,Diesel,Manual,41990,1
+Hyundai i20 2009 CNG & Hybrids Well Maintained,"India, Maharashtra, Pune, Prem Nagar","2,70,000",HATCHBACK,Hyundai,i20,2009-2011 Magna,2009,CNG & Hybrids,Manual,114000,3
+Tata Nano 2011 Petrol 67000 Km Driven,"India, Maharashtra, Pune, Vishrant Wadi","55,000",HATCHBACK,Tata,Nano,2009-2011 Lx,2011,Petrol,Manual,67000,3
+Maruti Suzuki Swift 2010 Diesel 79000 Km Driven,"India, Maharashtra, Pune, Sarasbaug","3,62,999",HATCHBACK,Maruti Suzuki,Swift,2011-2014 VDI,2010,Diesel,Manual,79000,1
+"BMW 3 Series 320d M Sport, 2017, Diesel","India, Maharashtra, Pune, Shivaji Nagar","31,00,000",LUXURY_SEDAN,BMW,3 Series,320d M Sport,2017,Diesel,Automatic,27000,1
+"Maruti Suzuki Swift Dzire VXI Automatic, 2017, Petrol","India, Maharashtra, Pune, Walvekar Nagar","6,50,000",SEDAN,Maruti Suzuki,Swift Dzire,AMT VXI,2017,Petrol,Automatic,64000,1
